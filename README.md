@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Spring Boot Rest API**
 
-- 💬 Ask me about **C#, .Net Framework, MSSQL, Cosmos DB, Elastic search, Microservices, Azure, Office 365 Graph API, Nylas, etc.**
+- 💬 Ask me about **C#, .Net core, Web API, Java, Spring boot, Python, Django, React, MSSQL, Cosmos DB, Elastic search, Microservices, Azure, Office 365 Graph API, Nylas, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
